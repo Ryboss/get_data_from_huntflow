@@ -3,10 +3,10 @@
 Прописать в консоли:
 
 ```sh
-> python main.py
+> pip install -r .\requirements.txt
 ```
 ```sh
-> pip install -r .\requirements.txt
+> python main.py
 ```
 ```ini
 # Введите токен для обрашения к API:
